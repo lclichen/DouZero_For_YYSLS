@@ -20,7 +20,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>DouZero for 欢乐斗地主</string>
+   <string>DouZero for 燕云斗财主</string>
   </property>
   <widget class="QLabel" name="WinRate">
    <property name="geometry">

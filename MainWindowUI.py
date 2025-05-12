@@ -109,7 +109,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "DouZero for 欢乐斗地主"))
+        Form.setWindowTitle(_translate("Form", "DouZero for 燕云斗财主"))
         self.WinRate.setText(_translate("Form", "胜率：--%"))
         self.InitCard.setText(_translate("Form", "开始"))
         self.UserHandCards.setText(_translate("Form", "手牌"))
