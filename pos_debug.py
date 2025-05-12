@@ -16,10 +16,7 @@ capture_pos = [(324, 750, 1131, 75),    # 玩家区域
                (850, 68, 220, 110)      # 地主底牌区域 # 修改完成
                ]
 # (左上角x, 左上角y, 宽度, 高度)
-# img_path = r"H:\git_repos\DouZero_For_HappyDouDiZhu\screenshots\2025-05-09 16-23-24.mkv_20250509_165039.438.png" #'C:/Users/Raf/Desktop/screenshot/1.png'
-# img_path = r"H:\git_repos\DouZero_For_HappyDouDiZhu\screenshots\2025-05-09 16-23-24.mkv_20250509_170725.720.png"
-# img_path = r"H:\git_repos\DouZero_For_HappyDouDiZhu\screenshots\2025-05-09 16-23-24.mkv_20250509_170801.113.png"
-img_path = r"D:\22844\Pictures\Screenshots\屏幕截图 2025-05-09 232034.png"
+img_path = r"你的截图路径"
 colors = [(0, 0, 255), (0, 255, 0), (255, 0, 0), (255, 255, 0), (255, 0, 255), (0, 255, 255), (255, 255, 255)]
 
 img = cv2.imread(img_path)

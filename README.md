@@ -1,4 +1,4 @@
-# DouZero_For_Happy_DouDiZhu: 将DouZero用于燕云十六声斗财主实战
+# DouZero_For_YYSLS: 将DouZero用于燕云十六声斗财主实战
 <img width="500" src="https://raw.githubusercontent.com/kwai/DouZero/main/imgs/douzero_logo.jpg" alt="Logo" />
 
 *   本项目基于[DouZero](https://github.com/kwai/DouZero)
