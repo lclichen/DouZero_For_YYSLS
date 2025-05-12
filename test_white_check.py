@@ -22,6 +22,6 @@ def check_pass(img):
         print(e)
         return False
 for i in range(256):
-    img_path = f"H:\git_repos\DouZero_For_HappyDouDiZhu\logs2\white_check_{i}.png"
+    img_path = f"./logs/20250512@210221/white_check_{i}.png"
     img_i = Image.open(img_path)
     print(i, have_white(img_i), check_pass(img_i))

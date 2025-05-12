@@ -31,7 +31,7 @@ def find_other_cards(img):
             print(card, e)
     return other_played_cards_real
 for i in range(20):
-    img_path = f"H:\git_repos\DouZero_For_HappyDouDiZhu\logs/20250512@210221/other_cards_{i}.png"
+    img_path = f"./logs/20250512@210221/other_cards_{i}.png"
     img_i = Image.open(img_path)
     print(i, find_other_cards(img_i))
 exit()
@@ -47,4 +47,4 @@ def find_my_cards(img):
             print(card, e)
     return other_played_cards_real
 
-print("my", find_my_cards(Image.open("H:\git_repos\DouZero_For_HappyDouDiZhu\logs\my_cards.png")))
+print("my", find_my_cards(Image.open("./logs/20250512@210221/my_cards.png")))
