@@ -1,0 +1,9 @@
+torch==2.6.0
+GitPython==3.1.44
+gitdb2==4.0.2
+PyAutoGUI==0.9.54
+PyQt5==5.15.10
+PyQt5-sip==12.13.0
+Pillow>=5.2.0
+opencv-python
+rlcard
